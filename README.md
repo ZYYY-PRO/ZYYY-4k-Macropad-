@@ -1,6 +1,13 @@
-# ZYYY-4k-Macropad-
+# ZYYYPAD
 All the files that are required to produce the pcb is opensource
 
+<b> https://youtu.be/lbP1HDdJELI video BTW
+
+---
+
+Visit here for the Billing of Material: **Parts.md**
+
+---
 
 Project Log: ZYYY 4k-Macropad
 
