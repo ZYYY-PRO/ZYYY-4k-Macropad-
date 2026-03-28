@@ -1,6 +1,15 @@
 ## Parts needed to solder the PCB
+### Main Bottom Components:
+<img width="1402" height="1108" alt="image" src="https://github.com/user-attachments/assets/4f80035b-a67e-433a-8ad2-a6f694f00cb0" />
 
-<img width="930" height="1351" alt="image" src="https://github.com/user-attachments/assets/f1276007-752c-4bd0-aa97-3023da63b0d5" />
+### Top Components: 
+<img width="1533" height="739" alt="image" src="https://github.com/user-attachments/assets/7fe7df14-0ef6-4a5e-b918-427af83b6153" />
+
+<img width="1528" height="535" alt="image" src="https://github.com/user-attachments/assets/68bbfa43-184e-4ac0-9927-a794440e970a" />
+
+
+### Switches **Need X2**
+<img width="1530" height="764" alt="image" src="https://github.com/user-attachments/assets/bf8e09bc-fa9a-45de-a949-39af377c9404" />
 
 ---
 
